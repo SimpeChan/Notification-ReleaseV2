@@ -3,7 +3,7 @@
 - 本应用为react native教学用例
 - 查看详情
 - https://c.z
-- true
+- false
 - 5000
 - false
 - ca-app-pub-3033436894115697/6771775181
